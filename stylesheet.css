@@ -1,0 +1,139 @@
+*
+{
+  box-sizing: border-box;
+
+}
+
+.header
+{
+  display: flex;
+  background-color:#06004a;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 100px;
+  padding-right: 100px;
+  color:#fae6f7;
+}
+.divzero
+{
+  flex-basis: 500px;
+  text-align: center;
+
+}
+.divd
+{
+  display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+.divy
+{
+  background-color: #06004a;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 300px;
+  padding-top: 100px;
+  color:#fae6f7;
+}
+.divt
+{
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+   gap: 40px;
+  height: 200px;
+}
+
+.divq
+{
+  height: 100px;
+  width: 100px;
+  border: 5px solid #56518c;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.divw
+{
+  height: 100px;
+  width: 100px;
+  border: 5px solid #56518c;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.dive
+{
+  height: 100px;
+  width: 100px;
+  border: 5px solid #56518c;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.divr
+{
+  height: 100px;
+  width: 100px;
+  border: 5px solid #56518c;
+  text-align: center;
+  padding-top: 30px;
+}
+.divu
+{
+  background-color: #dbdae3;
+  height: 200px;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 25px;
+  font-style: italic;
+  font-family: "times new roman";
+}
+
+.bottom
+{
+  margin-left: 300px;
+  margin-right: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: #59a9ff;
+  margin-top: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  border: 5px solid #4b6480;
+  color: white;
+
+}
+
+.divf
+{
+  font-size: 20px;
+}
+
+.divg
+{
+  align-self: flex-end;
+
+}
+
+.su
+{
+  width: 150px;
+  height: 50px;
+}
+
+footer{
+  margin-top: 50px;
+  background-color: #000424;
+  height: 75px;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 20px;
+}
